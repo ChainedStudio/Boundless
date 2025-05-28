@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "placeholder"
+	group: "07B04BB69465644B"
+	id: "1F6C400D10B67347"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "17E71D0B4F16B616"
+		tasks: [{
+			id: "2D4AE4F32447946D"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "enigmaticlegacy:animal_guidebook"
+			}
+			type: "item"
+		}]
+		title: "Guide"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Placeholder"
+}

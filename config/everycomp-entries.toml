@@ -1,0 +1,76 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.netherexp]
+			claret = true
+
+		[types.wood_type.theabyss]
+			blaru = true
+			jungle = true
+			slimed = true
+			frozen = true
+			vigilant = true
+
+		[types.wood_type.hexalia]
+			cottonwood = true
+			willow = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.hexalia]
+			cottonwood = true
+			willow = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
+		[entries.wood_type.bbb]
+			frame = true
+			trim = true
+			beam_slab = true
+			support = true
+			lantern = true
+			ladder = true
+			pallet = true
+			beam = true
+			layer = true
+			wall = true
+			beam_stairs = true
+
+		[entries.wood_type.beautifulcampfires]
+			campfire = true
+			soul_campfire = true
+
+		[entries.wood_type.variantvanillablocks]
+			fletching_table = true
+			lectern = true
+			smithing_table = true
+			bookshelf = true
+			crafting_table = true
+			smoker = true
+			cartography_table = true
+			beehive = true
+			composter = true
+			chiseled_bookshelf = true
+			grindstone = true
+			barrel = true
+			chest = true
+

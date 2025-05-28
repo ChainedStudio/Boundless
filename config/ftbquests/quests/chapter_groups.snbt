@@ -1,0 +1,11 @@
+{
+	chapter_groups: [
+		{ id: "07B04BB69465644B", title: "Getting Started !" }
+		{ id: "5E57CF769268F8CC", title: "Boundless Begginings" }
+		{ id: "6CA8B9B570CC30A1", title: "Technologia !" }
+		{ id: "65327CAC389229AB", title: "Never-Ending Journey" }
+		{ id: "5AAF4E7E4BBCB57D", title: "The Beasts of Forlorn" }
+		{ id: "61490426BDFB395D", title: "The End?" }
+		{ id: "0D05066582027D88", title: "Interstellar Trader" }
+	]
+}

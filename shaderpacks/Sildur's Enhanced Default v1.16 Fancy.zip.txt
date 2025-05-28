@@ -1,0 +1,9 @@
+#Thu Mar 13 13:25:09 SAST 2025
+shadowDistance=90.0
+shadowMapResolution=1024
+TAA=false
+SSAO=false
+skyReflection=false
+Refractions=false
+Godrays=false
+grays_quality=1

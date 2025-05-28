@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "placeholder_2"
+	group: "5E57CF769268F8CC"
+	id: "7E602D061426916A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "5F93A84E51476F13"
+		tasks: [{
+			id: "57AF9BFC6615FDD5"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:oak_log"
+			}
+			type: "item"
+		}]
+		title: "Starters"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Placeholder"
+}

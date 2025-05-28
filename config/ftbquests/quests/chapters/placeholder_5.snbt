@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "placeholder_5"
+	group: "5AAF4E7E4BBCB57D"
+	id: "77732E3018EB2D04"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "32964F31D1CE8B59"
+		tasks: [{
+			id: "4FAE687FD8167C73"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:oak_log"
+			}
+			type: "item"
+		}]
+		title: "Game Progression"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Placeholder"
+}

@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "placeholder_6"
+	group: "61490426BDFB395D"
+	id: "59C89A70B63DEF60"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "12B23EF3914397CF"
+		tasks: [{
+			id: "380918D652D93361"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:oak_log"
+			}
+			type: "item"
+		}]
+		title: "Achievements goals etc"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Placeholder"
+}

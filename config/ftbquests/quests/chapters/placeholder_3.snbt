@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "placeholder_3"
+	group: "6CA8B9B570CC30A1"
+	id: "79439935B55DC4A0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "6832A7B0EDB2C4E0"
+		tasks: [{
+			id: "4620FFC61A108F77"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "create:creative_motor"
+			}
+			type: "item"
+		}]
+		title: "Create"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Placeholder"
+}

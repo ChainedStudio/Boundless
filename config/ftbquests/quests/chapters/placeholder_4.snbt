@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "placeholder_4"
+	group: "65327CAC389229AB"
+	id: "09675EAF4A6BF9FD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "4868846A5600A0AE"
+		tasks: [{
+			id: "4316D3297DEA98D9"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "bbb:oak_ladder"
+			}
+			type: "item"
+		}]
+		title: "Exploration"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Placeholder"
+}

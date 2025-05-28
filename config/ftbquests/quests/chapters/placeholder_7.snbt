@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "placeholder_7"
+	group: "0D05066582027D88"
+	id: "4120D5B6AAF7634A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "51517ECBF080FD32"
+		tasks: [{
+			id: "25B36191BA7C816D"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:stripped_oak_log"
+			}
+			type: "item"
+		}]
+		title: "In-game Shop"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Placeholder"
+}
